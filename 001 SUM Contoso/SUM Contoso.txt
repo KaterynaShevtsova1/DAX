@@ -1,0 +1,8 @@
+Calculated column:
+CC SUM Sales amount = SUM(FactSales[CC Sales amount]) -- not correct, just for educational purposes.
+
+Measure:
+SUM Sales amount = SUM(FactSales[CC Sales amount])
+
+Comment:
+CC stays for calculated column - just for learning point.
